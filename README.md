@@ -1,5 +1,6 @@
 # INSAID-CapstoneProject-2(ML)
-### Group activity - Group No.1001 : Perform EDA - Feature Engineering - ML Algorithm ###
+### Group activity - Group No.1001 : ###
+#### Perform EDA - Feature Engineering - ML Algorithm ####
 
 The Capstone Project is a team-based project. Group was decided by INSAID team. Expectation from each individual was to communicate and sync like a proper professional team. 
 
